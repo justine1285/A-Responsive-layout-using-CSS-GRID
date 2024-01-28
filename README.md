@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [[Add solution URL here](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7/hub?share=true)]([https://your-solution-url.com](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7/hub?share=true))
+- Solution URL: [https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7/hub?share=true](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7/hub?share=true)]
 - Live Site URL: [ https://justine1285.github.io/A-Responsive-layout-using-CSS-GRID/]( https://justine1285.github.io/A-Responsive-layout-using-CSS-GRID/)
 
 ## Author
